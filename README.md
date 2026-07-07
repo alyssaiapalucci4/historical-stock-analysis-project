@@ -58,4 +58,3 @@ The project uses two datasets:
 ## Author
 
 Student Project — Alyssa  
-July 2026
